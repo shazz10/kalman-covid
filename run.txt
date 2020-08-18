@@ -1,0 +1,10 @@
+Use jupyter notebook to run the present ipynb files.
+
+Run analysis.ipynb for correlation and random forest based analysis
+
+run kalman-main.ipynb for kalman forecast
+
+run plottng_error_weather.ipynb for plottng and results
+
+run kalman-filter-base-code.ipynb for Kalman Filter algorithm implementation
+
